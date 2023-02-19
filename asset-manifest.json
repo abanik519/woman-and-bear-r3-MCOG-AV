@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/woman-and-bear-r3-MCOG-AV/static/css/main.68242232.css",
-    "main.js": "/woman-and-bear-r3-MCOG-AV/static/js/main.ce32ba28.js",
+    "main.js": "/woman-and-bear-r3-MCOG-AV/static/js/main.eedcbd15.js",
     "static/js/787.e7406f7c.chunk.js": "/woman-and-bear-r3-MCOG-AV/static/js/787.e7406f7c.chunk.js",
     "static/media/page08wf.png": "/woman-and-bear-r3-MCOG-AV/static/media/page08wf.c39f734907381a096b5c.png",
     "static/media/page02wf.png": "/woman-and-bear-r3-MCOG-AV/static/media/page02wf.a7f3ffd4f07a625f3056.png",
@@ -19,6 +19,7 @@
     "static/media/Cougar.jpg": "/woman-and-bear-r3-MCOG-AV/static/media/Cougar.e905ff838b85fc840d16.jpg",
     "static/media/Arctic Fox.png": "/woman-and-bear-r3-MCOG-AV/static/media/Arctic Fox.0b65488159240051fe07.png",
     "static/media/Beaver.jpg": "/woman-and-bear-r3-MCOG-AV/static/media/Beaver.7f66fadd0d85572423b6.jpg",
+    "static/media/3.6_metacog.mp3": "/woman-and-bear-r3-MCOG-AV/static/media/3.6_metacog.a634fe84046d3d8fed21.mp3",
     "static/media/Red fox.jpg": "/woman-and-bear-r3-MCOG-AV/static/media/Red fox.00e90af63b79fcee75bd.jpg",
     "static/media/Polar bear.jpg": "/woman-and-bear-r3-MCOG-AV/static/media/Polar bear.b4774390c10c35230b42.jpg",
     "static/media/3.1_metacog.mp3": "/woman-and-bear-r3-MCOG-AV/static/media/3.1_metacog.00e1ec2370fb5859ba30.mp3",
@@ -29,7 +30,6 @@
     "static/media/3.4_metacog.mp3": "/woman-and-bear-r3-MCOG-AV/static/media/3.4_metacog.c105b69b4f786d7db47e.mp3",
     "static/media/3.8_metacog.mp3": "/woman-and-bear-r3-MCOG-AV/static/media/3.8_metacog.bc09cc4d72770aa470f4.mp3",
     "static/media/3.T_cog_metacog1.mp3": "/woman-and-bear-r3-MCOG-AV/static/media/3.T_cog_metacog1.d88e63d91b105670f6ea.mp3",
-    "static/media/3.6_metacog.mp3": "/woman-and-bear-r3-MCOG-AV/static/media/3.6_metacog.50c8a7479596d6a5d404.mp3",
     "static/media/Whale.jpg": "/woman-and-bear-r3-MCOG-AV/static/media/Whale.1b59c3b78eb6dc4dda6e.jpg",
     "static/media/3.9_metacog.mp3": "/woman-and-bear-r3-MCOG-AV/static/media/3.9_metacog.5f1d46eee13078fa1d43.mp3",
     "static/media/Snowshoe hare.jpg": "/woman-and-bear-r3-MCOG-AV/static/media/Snowshoe hare.dc42c3d4d49027ced855.jpg",
@@ -44,11 +44,11 @@
     "static/media/Avatar.png": "/woman-and-bear-r3-MCOG-AV/static/media/Avatar.01842f6936c3117820fd.png",
     "index.html": "/woman-and-bear-r3-MCOG-AV/index.html",
     "main.68242232.css.map": "/woman-and-bear-r3-MCOG-AV/static/css/main.68242232.css.map",
-    "main.ce32ba28.js.map": "/woman-and-bear-r3-MCOG-AV/static/js/main.ce32ba28.js.map",
+    "main.eedcbd15.js.map": "/woman-and-bear-r3-MCOG-AV/static/js/main.eedcbd15.js.map",
     "787.e7406f7c.chunk.js.map": "/woman-and-bear-r3-MCOG-AV/static/js/787.e7406f7c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.68242232.css",
-    "static/js/main.ce32ba28.js"
+    "static/js/main.eedcbd15.js"
   ]
 }
